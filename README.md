@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور العين قلبي يناديك
+> روحي فداك وبين أياديك
+> في صمت الليل أسمع أغانيك
+> نار الهوى بالشوق تواسيك
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
